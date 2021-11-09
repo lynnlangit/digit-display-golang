@@ -5,7 +5,6 @@ import (
 	"os"
 	"strconv"
 	"strings"
-
 	"github.com/jeremybytes/digit-display-golang/shared"
 )
 

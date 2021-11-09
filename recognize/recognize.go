@@ -2,7 +2,6 @@ package recognize
 
 import (
 	"fmt"
-
 	"github.com/jeremybytes/digit-display-golang/shared"
 )
 
