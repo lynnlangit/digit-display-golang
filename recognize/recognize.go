@@ -2,7 +2,7 @@ package recognize
 
 import (
 	"fmt"
-	"github.com/jeremybytes/digit-display-golang/shared"
+	"github.com/lynnlangit/digit-display-golang/shared"
 )
 
 type Record = shared.Record

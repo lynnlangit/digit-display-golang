@@ -10,10 +10,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/jeremybytes/digit-display-golang/display"
-	"github.com/jeremybytes/digit-display-golang/fileloader"
-	"github.com/jeremybytes/digit-display-golang/recognize"
-	"github.com/jeremybytes/digit-display-golang/shared"
+	"github.com/lynnlangit/digit-display-golang/display"
+	"github.com/lynnlangit/digit-display-golang/fileloader"
+	"github.com/lynnlangit/digit-display-golang/recognize"
+	"github.com/lynnlangit/digit-display-golang/shared"
 )
 
 func writeOutput(prediction recognize.Prediction) {
